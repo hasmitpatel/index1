@@ -1,0 +1,27 @@
+h1 {
+    background-color: brown;
+}
+h2 {
+    color: brown;
+}
+p {
+    background-color: rgb(199, 230, 243);
+}
+main img {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+
+div {
+    background-image: url('animalimg1.jpeg');
+  }
+body {
+    background-image: image('animals.jpeg');
+    background-color: rgb(199, 230, 243);
+}
+#partt {
+    background-color: brown;
+}
+#myp {
+    background-color: brown ;
+}
